@@ -169,7 +169,6 @@ body:not(.home-template) .gh-topic-grid .gh-card {
     width: 100%;
     height: 100%;
     object-fit: cover;
-    border-radius: 12px;
 }
 
 .gh-topic-grid .gh-card-wrapper {
@@ -351,7 +350,6 @@ body:not(.home-template) .gh-topic-grid .gh-card {
 .gh-article-image {
     grid-column: main-start / main-end;
     width: 100%;
-    border-radius: 12px;
 }
 
 .has-wide-image .gh-article-image {
